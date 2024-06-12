@@ -1,0 +1,4 @@
+diffprivlib==0.6.4
+pandas==2.0.3
+pip-chill==1.0.3
+tqdm==4.66.4
