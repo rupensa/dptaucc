@@ -64,7 +64,7 @@ for n_iterations in iter_list:
                 print(f'DP-TauCC on {dataset}, with epsilon {eps} and n. iter {n_iterations}, run {t}')
                 execute_test_dp(fdp, T, [target, ty], noise=0,n_iterations = n_iterations, eps = eps, init = [k,k], verbose = False)
                 print(f'CC on {dataset}, with epsilon {eps} and n. iter {n_iterations}, run {t}')
-                execute_test_cc(fcc, T, [target, ty], noise=0,n_iterations = 4, init = [k,k], verbose = False)
+                execute_test_cc(fcc, T, [target, ty], noise=0,n_iterations = 500, init = [k,k], verbose = False)
                 print(f'DPKM on {dataset}, with epsilon {eps} and n. iter {n_iterations}, run {t}')
                 execute_test_km(fkm, T, target, noise=0, n_iterations = 4, eps = eps, init = k, verbose = False)
                 print(f'DPHD on {dataset}, with epsilon {eps} and n. iter {n_iterations}, run {t}')
