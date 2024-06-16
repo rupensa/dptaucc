@@ -8,7 +8,7 @@ from utils import CreateOutputFileDPHD, execute_test_dphd, CreateOutputFileCC, C
 import sys
 
 
-datasets = ['classic3', 'cstr', 'hitech', 'k1b', 'tr11', 'tr23', 'tr41', 'tr45', 'reviews', 'sports']
+datasets = ['classic3', 'cstr', 'hitech', 'k1b', 'tr11', 'tr41', 'reviews', 'sports']
 n_test = 10
 iter_list = [2,3,4,5,6,7,8,9,10]
 

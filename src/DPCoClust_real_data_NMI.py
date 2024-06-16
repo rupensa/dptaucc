@@ -50,7 +50,7 @@ for n_iterations in iter_list:
 
         ty = np.zeros(m, dtype = int)
         for t in range(n_test):
-            for eps in [.1, .2, .3, .4, .5, .6, .7, .8, .9, 0.99999, 1.5,2,2.5,3,4.5,5,6,7,8,9,10]:
+            for eps in [.1, .2, .3, .4, .5, .6, .7, .8, .9, 0.99999, 1.5,2,2.5,3]:
                 mat_file = {}
                 mat_file['file_data'] = T.T.astype('float')
                 mat_file['file_k'] = k
