@@ -1,5 +1,5 @@
 # DP-tauCC
-Source code for the paper "Differentially Private Associative Co-clustering", submitted to SIAM SDM 2024.
+Source code for the paper "Differentially Private Associative Co-clustering", submitted to SIAM SDM 2025.
 
 ## How to reproduce the experiments:
 
