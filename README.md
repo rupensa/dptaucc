@@ -33,4 +33,10 @@ Run the experiments to get the iterations/epsilon heatmaps:
 python src/DPCoClust_real_data_iter.py
 ```
 
+Run the experiments to get the h/epsilon heatmaps:
+
+```
+python src/DPCoClust_real_data_h.py
+```
+
 The results are in the <code>output/\<algorithm\></code> directories, one file per dataset. Plots can be generated using the notebook files.
