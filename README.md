@@ -40,3 +40,16 @@ python src/DPCoClust_real_data_h.py
 ```
 
 The results are in the <code>output/\<algorithm\></code> directories, one file per dataset. Plots can be generated using the notebook files.
+
+## How to cite
+```
+@inproceedings{SDM25,
+  author       = {Elena Battaglia and Ruggero G. Pensa},
+  title        = {Differentially Private Associative Co-Clustering},
+  booktitle    = {Proceedings of the 2025 {SIAM} International Conference on Data Mining,
+                  {SDM} 2025, Alexandria, VA, USA, May 1-3, 2025},
+  pages        = {1--9},
+  publisher    = {{SIAM}},
+  year         = {2025}
+}
+```
