@@ -1,7 +1,5 @@
 # DP-tauCC
-Source code for the paper "Differentially Private Associative Co-clustering", Proceedings of the 2025 SIAM International Conference on Data Mining, SDM 2025, Alexandria, VA, USA, May 1-3, 2025, by Elena Battaglia and Ruggero G. Pensa.
-
-[[paper]](SDM25_dptaucc_paper.pdf) [[supplemental material]](SDM25_dptaucc_appendix.pdf)
+Source code for the paper "Differentially Private Associative Co-clustering", Proceedings of the 2025 SIAM International Conference on Data Mining, SDM 2025, Alexandria, VA, USA, May 1-3, 2025, by Elena Battaglia and Ruggero G. Pensa. [[paper]](SDM25_dptaucc_paper.pdf) [[supplemental material]](SDM25_dptaucc_appendix.pdf)
 
 ## How to reproduce the experiments:
 
