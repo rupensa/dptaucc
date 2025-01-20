@@ -1,6 +1,8 @@
 # DP-tauCC
 Source code for the paper "Differentially Private Associative Co-clustering", SIAM SDM 2025, by Elena Battaglia and Ruggero G. Pensa.
 
+[[paper]](SDM25_dptaucc_paper.pdf) [[supplemental material]](SDM25_dptaucc_appendix.pdf)
+
 ## How to reproduce the experiments:
 
 Git-clone the repository. Then, install the required packages:
